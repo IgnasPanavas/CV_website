@@ -199,6 +199,15 @@ section a:hover {
   margin: 0;
 }
 
+.project-description {
+  padding: 0 1rem;
+  margin: 0.5rem 0;
+  color: #555;
+  font-style: italic;
+  font-size: 0.9rem;
+  line-height: 1.4;
+}
+
 /**************   Responsiveness   *****************/
 @media (max-width: 680px) {
     nav {
